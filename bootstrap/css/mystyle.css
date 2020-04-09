@@ -22,11 +22,15 @@ body
 	margin-top: -200px;
 }
 
-#About .fab
+#About .fab, .fa
 {
 	color: black;
 }
 
+.fa-skiing-nordic,.fa-medal, .fa-mobile-alt
+{
+	color: white;
+}
 #About span
 {
 	margin-top: 0px auto;
@@ -88,13 +92,15 @@ body
 	font-size: 18px;
 	margin-bottom: 12px;
 	margin-right: 12px;
+	overflow-wrap: break-word;
 }
-#fnt
+/*#fnt*/
+span
 {
 	font-size: 20px;
 	padding: 4px;
 	text-align: justify-all;
-
+	color: white;
 }
 
 #jb2
