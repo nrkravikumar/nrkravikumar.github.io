@@ -1,6 +1,7 @@
 body
 {
 	background-color: #ccc;
+	font-family: Times new roman;
 }
 
 .jumbotron
@@ -92,7 +93,7 @@ body
 	border:2px solid #000000;
 	padding: 20px 15px 10px 10px;
 	border-radius: 5px 15px 5px 15px;
-	font-size: 18px;
+	font-size: 20px;
 	margin-bottom: 12px;
 	margin-right: 12px;
 	overflow-wrap: break-word;
